@@ -1,6 +1,7 @@
 ## EXNO-3-DS
-NAME: V mythili 212223040123
-DEPT: CSE
+NAME: ARULARASI U
+DEPT: CSE (CS) 
+REG: 212223100002
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
